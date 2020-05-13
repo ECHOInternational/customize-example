@@ -35,6 +35,11 @@ body [lang = "zh"] {
     font-family: 'Noto Sans SC', 'Noto Sans', sans-serif !important;
 }
 
+.navbar-brand > svg {
+    display: inline-block;
+    margin: -4px 3px 0 0;
+}
+
 /* ORIGINAL FILE */
 .multi-wrapper {
     border: 1px solid #ccc;
