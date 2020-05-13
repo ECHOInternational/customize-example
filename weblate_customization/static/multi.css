@@ -37,7 +37,7 @@ body [lang = "zh"] {
 
 .navbar-brand > svg {
     display: inline-block;
-    margin: -4px 3px 0 0;
+    margin: -4px 3px 0 0 !important;
 }
 
 /* ORIGINAL FILE */
